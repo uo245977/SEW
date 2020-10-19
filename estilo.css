@@ -1,0 +1,51 @@
+h1 {
+    background-color: #000000;
+    color: #fceb01;
+    text-transform: uppercase;
+    padding: 50px 50px;
+    font: 400 45px "Comic Sans MS", sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font: 400 25px Tahoma, sans-serif;
+    line-height: 1.8;
+    color: #0a0a0a;
+    background-color: #ffffff
+}
+
+h3 {
+    font: 400 20px Tahoma, sans-serif;
+    line-height: 1.8;
+    color: #0a0a0a;
+    background-color: #ffffff
+}
+
+
+
+p {
+    font: 400 15px Tahoma, sans-serif;
+    line-height: 2.0;
+    color: #000000;
+    background-color: #ffffff
+}
+
+ul{
+    font: 400 15px Tahoma, sans-serif;
+    line-height: 2.0;
+    color: #000000;
+    background-color: #ffffff
+
+}
+
+table {
+    font: 400 15px Tahoma, sans-serif;
+    line-height: 2.0;
+    color: #0a0a0a;
+    background-color: #ffffff
+}
+
+
+
+
+
