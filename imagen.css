@@ -1,0 +1,25 @@
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 0.6em;
+    width: 100%;
+    text-align: center;
+    display: grid;
+    grid-template-areas:
+    "linea_1"
+    "linea_2"
+    "linea_3"
+    "linea_4";
+  }
+  header {
+    grid-area: linea_1;
+  }
+  aside {
+    grid-area: linea_2;
+  }
+  main {
+    grid-area: linea_3;
+  }
+  footer {
+    grid-area: linea_4;
+  }
+}
